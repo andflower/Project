@@ -1,0 +1,8 @@
+{
+  "execPath": "C:/Users/lucia/.platformio/packages/toolchain-atmelavr/bin/avr-g++.exe",
+  "gccDefaultCFlags": "-fsyntax-only -std=gnu11 -fno-fat-lto-objects -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50001 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -D__AVR_ATmega328P__",
+  "gccDefaultCppFlags": "-fsyntax-only -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -Os -Wall -ffunction-sections -fdata-sections -flto -mmcu=atmega328p -DPLATFORMIO=50001 -DARDUINO_AVR_UNO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -D__AVR_ATmega328P__",
+  "gccErrorLimit": 15,
+  "gccIncludePaths": "C:/Users/lucia/Desktop/SmartHome/include,C:/Users/lucia/Desktop/SmartHome/src,C:/Users/lucia/.platformio/packages/framework-arduino-avr/cores/arduino,C:/Users/lucia/.platformio/packages/framework-arduino-avr/variants/standard,C:/Users/lucia/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src,C:/Users/lucia/.platformio/packages/framework-arduino-avr/libraries/HID/src,C:/Users/lucia/.platformio/packages/framework-arduino-avr/libraries/SPI/src,C:/Users/lucia/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src,C:/Users/lucia/.platformio/packages/framework-arduino-avr/libraries/Wire/src,C:/Users/lucia/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include,C:/Users/lucia/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/5.4.0/include-fixed,C:/Users/lucia/.platformio/packages/toolchain-atmelavr/avr/include,C:/Users/lucia/.platformio/packages/tool-unity",
+  "gccSuppressWarnings": false
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SmartHome</string>
+    <string name="temp">온도</string>
+    <string name="humd">습도</string>
+    <string name="state">상태</string>
+    <string name="BtnConnect">연결</string>
+    <string name="led제어">LED제어</string>
+    <string name="led_on">LED on</string>
+    <string name="led_off">LED off</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="curtainscontroll">커튼제어</string>
+    <string name="curtainsauto">커튼자동화</string>
+    <string name="crimepreventioncontrol">방범제어</string>
+    <string name="automatic">기본모드</string>
+    <string name="manual">외출모드</string>
+</resources>

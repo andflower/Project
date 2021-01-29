@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=D10 Pin=B2-2
+Added Pin To Net: NetName=D010 Pin=B2-2
+Added Room: Name=smarthome_ALL

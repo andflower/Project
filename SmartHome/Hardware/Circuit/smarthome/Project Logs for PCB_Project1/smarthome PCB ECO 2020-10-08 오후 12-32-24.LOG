@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=A? NewDesignator=A1
+Change Component Designator: OldDesignator=A? NewDesignator=A2
+Change Component Designator: OldDesignator=A? NewDesignator=A3
+Change Component Designator: OldDesignator=A? NewDesignator=A4
+Change Component Designator: OldDesignator=M? NewDesignator=M5
+Change Component Designator: OldDesignator=M? NewDesignator=M7
+Added Member To Class: ClassName=smarthome_ALL Member=Component A2 ARD2(Power)
+Added Member To Class: ClassName=smarthome_ALL Member=Component A3 ARD2(Digital)
+Added Member To Class: ClassName=smarthome_ALL Member=Component A4 ARD2(Analog)
+Added Member To Class: ClassName=smarthome_ALL Member=Component M7 Steppervmotor

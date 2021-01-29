@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Radar Cup Cat</string>
+    <string name="fullscreen_button">Full Screen</string>
+    <string name="connetion_button">CONNET</string>
+</resources>

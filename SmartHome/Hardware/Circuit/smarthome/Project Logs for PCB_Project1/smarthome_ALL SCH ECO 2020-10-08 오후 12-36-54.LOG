@@ -1,0 +1,4 @@
+Remove Pin=A2-2 From Net=A1
+Change Component Designator: OldDesignator=A1 NewDesignator=A2
+Change Component Designator: OldDesignator=A2 NewDesignator=A4
+Change Component Designator: OldDesignator=A4 NewDesignator=A1
